@@ -1,4 +1,16 @@
-import static java.lang.Thread.*;
+/**
+ *
+ * 340 Project 2
+ * Shopping at the Mega store
+ * Simulation without Semaphores
+ *
+ * @author Xin Yuan
+ * All rights reserved
+ * 12/14/2019
+ *
+ */
+
+ import static java.lang.Thread.*;
 
 public class Main {
 
