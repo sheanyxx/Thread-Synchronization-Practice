@@ -1,0 +1,318 @@
+Yuan_Xin_CS340_p2/out/production/Yuan_Xin_CS340_p2 Main
+---- IntelliJ IDEA coverage runner ---- 
+sampling ...
+include patterns:
+exclude patterns:
+[1] Floor clerk 1: is waiting for the customer
+[1] Floor clerk 2: is waiting for the customer
+[1] Floor clerk 3: is waiting for the customer
+[1] Cashier 1: is waiting for the customer
+[1] Cashier 2: is waiting for the customer
+[0] Customer 1: has walked in the mega showroom
+[0] Customer 1: is browsing the store
+[1] Customer 2: has walked in the mega showroom
+[1] Customer 2: is browsing the store
+[1] Customer 3: has walked in the mega showroom
+[1] Customer 3: is browsing the store
+[2] Customer 4: has walked in the mega showroom
+[2] Customer 4: is browsing the store
+[2] Customer 5: has walked in the mega showroom
+[2] Customer 5: is browsing the store
+[2] Customer 6: has walked in the mega showroom
+[2] Customer 6: is browsing the store
+[2] Customer 7: has walked in the mega showroom
+[2] Customer 7: is browsing the store
+[3] Customer 8: has walked in the mega showroom
+[3] Customer 8: is browsing the store
+[3] Customer 9: has walked in the mega showroom
+[3] Customer 9: is browsing the store
+[3] Customer 10: has walked in the mega showroom
+[3] Customer 10: is browsing the store
+[3] Customer 11: has walked in the mega showroom
+[3] Customer 11: is browsing the store
+[3] Customer 12: has walked in the mega showroom
+[3] Customer 12: is browsing the store
+[3] Customer 13: has walked in the mega showroom
+[3] Customer 13: is browsing the store
+[4] Customer 14: has walked in the mega showroom
+[4] Customer 14: is browsing the store
+[4] Customer 15: has walked in the mega showroom
+[4] Customer 15: is browsing the store
+[1050] Customer 9: is deciding on purchasing the items
+[1055] Customer 6: is deciding on purchasing the items
+[1110] Customer 12: is deciding on purchasing the items
+[1173] Customer 8: is deciding on purchasing the items
+[1234] Customer 15: is deciding on purchasing the items
+[1259] Customer 3: is deciding on purchasing the items
+[1283] Customer 4: is deciding on purchasing the items
+[1420] Customer 1: is deciding on purchasing the items
+[2073] Customer 2: is deciding on purchasing the items
+[2103] Customer 7: is deciding on purchasing the items
+[2174] Customer 5: is deciding on purchasing the items
+[2185] Customer 13: is deciding on purchasing the items
+[2320] Customer 8: has decided the item that they want to purchase
+[2320] Customer 8: is waiting for an available clerk to get a slip
+[2320] Customer 8:  is deciding the payment method 
+[2323] Floor clerk 1:  is assisting Customer 8
+[2324] Floor clerk 1:  gave Customer 8 a slip
+[2321] Customer 8:  got on payment line
+[2324] Number of customer assisted by clerks: 1
+[2321] Customer 8: is paying in cash, getting on the cash line 
+[2324] Floor clerk 1: is waiting for the customer
+[2321] Customer 8: is waiting for the cash register to be available
+[2321] Customer 8:  has paid, waiting in the cafe
+[2322] Cashier 1: is serving Customer 8
+[2322] Number of customer paid: 1
+[2321] Customer 8:  got on the bus, ready to depart
+[2322] Cashier 1: gave Customer 8 the receipt and the boarding pass
+[2322] Number of customer assisted by Cashier 1: 1
+[2322] Cashier 1: is waiting for the customer
+[2451] Customer 9: has decided the item that they want to purchase
+[2452] Customer 9: is waiting for an available clerk to get a slip
+[2452] Customer 9:  is deciding the payment method 
+[2455] Floor clerk 2:  is assisting Customer 9
+[2455] Floor clerk 2:  gave Customer 9 a slip
+[2452] Customer 9:  got on payment line
+[2455] Number of customer assisted by clerks: 2
+[2455] Floor clerk 2: is waiting for the customer
+[2452] Customer 9: is paying in cash, getting on the cash line 
+[2452] Customer 9: is waiting for the cash register to be available
+[2452] Customer 9:  has paid, waiting in the cafe
+[2551] Customer 4: has decided the item that they want to purchase
+[2551] Customer 4: is waiting for an available clerk to get a slip
+[2551] Customer 4:  is deciding the payment method 
+[2554] Floor clerk 3:  is assisting Customer 4
+[2554] Floor clerk 3:  gave Customer 4 a slip
+[2555] Number of customer assisted by clerks: 3
+[2555] Floor clerk 3: is waiting for the customer
+[2552] Customer 4:  got on payment line
+[2552] Customer 4: is paying in cash, getting on the cash line 
+[2552] Customer 4: is waiting for the cash register to be available
+[2820] Customer 10: is deciding on purchasing the items
+[2825] Customer 11: is deciding on purchasing the items
+[2857] Customer 14: is deciding on purchasing the items
+[2872] Customer 15: has decided the item that they want to purchase
+[2872] Customer 15: is waiting for an available clerk to get a slip
+[2872] Customer 15:  is deciding the payment method 
+[2875] Floor clerk 1:  is assisting Customer 15
+[2876] Floor clerk 1:  gave Customer 15 a slip
+[2873] Customer 15:  got on payment line
+[2876] Number of customer assisted by clerks: 4
+[2876] Floor clerk 1: is waiting for the customer
+[3042] Customer 12: has decided the item that they want to purchase
+[3042] Customer 12: is waiting for an available clerk to get a slip
+[3045] Floor clerk 2:  is assisting Customer 12
+[3042] Customer 12:  is deciding the payment method 
+[3045] Floor clerk 2:  gave Customer 12 a slip
+[3042] Customer 12:  got on payment line
+[3045] Number of customer assisted by clerks: 5
+[3042] Customer 12: is paying with credit card, getting on the credit card line 
+[3042] Customer 12: is waiting for the credit card register to be available
+[3043] Cashier 2: is serving Customer 12
+[3045] Floor clerk 2: is waiting for the customer
+[3042] Customer 9:  got on the bus, ready to depart
+[3043] Number of customer paid: 2
+[3042] Customer 12:  has paid, waiting in the cafe
+[3044] Cashier 2: gave Customer 12 the receipt and the boarding pass
+[3044] Number of customer assisted by Cashier 2: 1
+[3044] Cashier 2: is waiting for the customer
+[3044] Cashier 1: is serving Customer 9
+[3044] Number of customer paid: 3
+[3043] Customer 12:  got on the bus, ready to depart
+[3044] Cashier 1: gave Customer 9 the receipt and the boarding pass
+[3044] Number of customer assisted by Cashier 1: 2
+[3044] Cashier 1: is waiting for the customer
+[3043] Customer 15: is paying in cash, getting on the cash line 
+[3043] Customer 4:  has paid, waiting in the cafe
+[3043] Customer 15: is waiting for the cash register to be available
+[3149] Customer 3: has decided the item that they want to purchase
+[3149] Customer 3: is waiting for an available clerk to get a slip
+[3152] Floor clerk 3:  is assisting Customer 3
+[3149] Customer 3:  is deciding the payment method 
+[3152] Floor clerk 3:  gave Customer 3 a slip
+[3149] Customer 3:  got on payment line
+[3152] Number of customer assisted by clerks: 6
+[3149] Customer 3: is paying with credit card, getting on the credit card line 
+[3149] Customer 3: is waiting for the credit card register to be available
+[3152] Floor clerk 3: is waiting for the customer
+[3150] Cashier 2: is serving Customer 3
+[3149] Customer 3:  has paid, waiting in the cafe
+[3150] Customer 4:  got on the bus, ready to depart
+[3151] Number of customer paid: 4
+[3151] Cashier 2: gave Customer 3 the receipt and the boarding pass
+[3151] Number of customer assisted by Cashier 2: 2
+[3151] Cashier 2: is waiting for the customer
+[3151] Cashier 1: is serving Customer 4
+[3151] Number of customer paid: 5
+[3150] Customer 3:  got on the bus, ready to depart
+[3151] Cashier 1: gave Customer 4 the receipt and the boarding pass
+[3151] Number of customer assisted by Cashier 1: 3
+[3151] Cashier 1: is waiting for the customer
+[3150] Customer 15:  has paid, waiting in the cafe
+[3685] Customer 7: has decided the item that they want to purchase
+[3685] Customer 7: is waiting for an available clerk to get a slip
+[3685] Customer 7:  is deciding the payment method 
+[3688] Floor clerk 1:  is assisting Customer 7
+[3688] Floor clerk 1:  gave Customer 7 a slip
+[3688] Number of customer assisted by clerks: 7
+[3689] Floor clerk 1: is waiting for the customer
+[3688] Customer 7:  got on payment line
+[3688] Customer 7: is paying in cash, getting on the cash line 
+[3688] Customer 7: is waiting for the cash register to be available
+[3718] Customer 2: has decided the item that they want to purchase
+[3718] Customer 2: is waiting for an available clerk to get a slip
+[3718] Customer 2:  is deciding the payment method 
+[3721] Floor clerk 2:  is assisting Customer 2
+[3721] Floor clerk 2:  gave Customer 2 a slip
+[3721] Number of customer assisted by clerks: 8
+[3718] Customer 2:  got on payment line
+[3721] Floor clerk 2: is waiting for the customer
+[3718] Customer 2: is paying with credit card, getting on the credit card line 
+[3718] Customer 2: is waiting for the credit card register to be available
+[3719] Customer 2:  has paid, waiting in the cafe
+[3720] Cashier 2: is serving Customer 2
+[3720] Number of customer paid: 6
+[3720] Cashier 2: gave Customer 2 the receipt and the boarding pass
+[3720] Number of customer assisted by Cashier 2: 3
+[3719] Customer 15:  got on the bus, ready to depart
+[3720] Cashier 1: is serving Customer 15
+[3720] Cashier 2: is waiting for the customer
+[3719] Customer 2:  got on the bus, ready to depart
+[3720] Number of customer paid: 7
+[3720] Cashier 1: gave Customer 15 the receipt and the boarding pass
+[3720] Number of customer assisted by Cashier 1: 4
+[3720] Cashier 1: is waiting for the customer
+[3719] Customer 7:  has paid, waiting in the cafe
+[3969] Customer 14: has decided the item that they want to purchase
+[3969] Customer 14: is waiting for an available clerk to get a slip
+[3972] Floor clerk 3:  is assisting Customer 14
+[3969] Customer 14:  is deciding the payment method 
+[3972] Floor clerk 3:  gave Customer 14 a slip
+[3969] Customer 14:  got on payment line
+[3972] Number of customer assisted by clerks: 9
+[3969] Customer 14: is paying in cash, getting on the cash line 
+[3969] Customer 14: is waiting for the cash register to be available
+[3972] Floor clerk 3: is waiting for the customer
+[3989] Customer 6: has decided the item that they want to purchase
+[3989] Customer 6: is waiting for an available clerk to get a slip
+[3992] Floor clerk 1:  is assisting Customer 6
+[3989] Customer 6:  is deciding the payment method 
+[3992] Floor clerk 1:  gave Customer 6 a slip
+[3989] Customer 6:  got on payment line
+[3992] Number of customer assisted by clerks: 10
+[3989] Customer 6: is paying with credit card, getting on the credit card line 
+[3992] Floor clerk 1: is waiting for the customer
+[3989] Customer 6: is waiting for the credit card register to be available
+[3989] Customer 6:  has paid, waiting in the cafe
+[3990] Cashier 2: is serving Customer 6
+[3990] Number of customer paid: 8
+[3990] Cashier 2: gave Customer 6 the receipt and the boarding pass
+[3989] Customer 7:  got on the bus, ready to depart
+[3990] Number of customer assisted by Cashier 2: 4
+[3991] Cashier 2: is waiting for the customer
+[3991] Cashier 1: is serving Customer 7
+[3991] Number of customer paid: 9
+[3990] Customer 6:  got on the bus, ready to depart
+[3991] Cashier 1: gave Customer 7 the receipt and the boarding pass
+[3991] Number of customer assisted by Cashier 1: 5
+[3990] Customer 14:  has paid, waiting in the cafe
+[3991] Cashier 1: is waiting for the customer
+[4086] Customer 1: has decided the item that they want to purchase
+[4087] Customer 1: is waiting for an available clerk to get a slip
+[4090] Floor clerk 2:  is assisting Customer 1
+[4087] Customer 1:  is deciding the payment method 
+[4090] Floor clerk 2:  gave Customer 1 a slip
+[4087] Customer 1:  got on payment line
+[4090] Number of customer assisted by clerks: 11
+[4087] Customer 1: is paying in cash, getting on the cash line 
+[4090] Floor clerk 2: is waiting for the customer
+[4087] Customer 1: is waiting for the cash register to be available
+[4095] Customer 10: has decided the item that they want to purchase
+[4095] Customer 10: is waiting for an available clerk to get a slip
+[4095] Customer 10:  is deciding the payment method 
+[4098] Floor clerk 3:  is assisting Customer 10
+[4098] Floor clerk 3:  gave Customer 10 a slip
+[4098] Number of customer assisted by clerks: 12
+[4098] Floor clerk 3: is waiting for the customer
+[4095] Customer 10:  got on payment line
+[4101] Customer 11: has decided the item that they want to purchase
+[4101] Customer 11: is waiting for an available clerk to get a slip
+[4101] Customer 11:  is deciding the payment method 
+[4105] Floor clerk 1:  is assisting Customer 11
+[4105] Floor clerk 1:  gave Customer 11 a slip
+[4105] Number of customer assisted by clerks: 13
+[4105] Floor clerk 1: is waiting for the customer
+[4102] Customer 11:  got on payment line
+[4102] Customer 11: is paying with credit card, getting on the credit card line 
+[4102] Customer 11: is waiting for the credit card register to be available
+[4102] Customer 11:  has paid, waiting in the cafe
+[4103] Cashier 2: is serving Customer 11
+[4103] Number of customer paid: 10
+[4103] Cashier 2: gave Customer 11 the receipt and the boarding pass
+[4102] Customer 14:  got on the bus, ready to depart
+[4103] Number of customer assisted by Cashier 2: 5
+[4103] Cashier 2: is waiting for the customer
+[4103] Cashier 1: is serving Customer 14
+[4103] Number of customer paid: 11
+[4102] Customer 11:  got on the bus, ready to depart
+[4103] Cashier 1: gave Customer 14 the receipt and the boarding pass
+[4103] Number of customer assisted by Cashier 1: 6
+[4103] Cashier 1: is waiting for the customer
+[4102] Customer 1:  has paid, waiting in the cafe
+[4102] Customer 10: is paying in cash, getting on the cash line 
+[4102] Customer 10: is waiting for the cash register to be available
+[4209] Customer 13: has decided the item that they want to purchase
+[4209] Customer 13: is waiting for an available clerk to get a slip
+[4210] Customer 13:  is deciding the payment method 
+[4213] Floor clerk 2:  is assisting Customer 13
+[4213] Floor clerk 2:  gave Customer 13 a slip
+[4210] Customer 13:  got on payment line
+[4213] Number of customer assisted by clerks: 14
+[4210] Customer 13: is paying with credit card, getting on the credit card line 
+[4213] Floor clerk 2: is waiting for the customer
+[4210] Customer 13: is waiting for the credit card register to be available
+[4210] Customer 13:  has paid, waiting in the cafe
+[4211] Cashier 2: is serving Customer 13
+[4210] Customer 1:  got on the bus, ready to depart
+[4211] Number of customer paid: 12
+[4211] Cashier 2: gave Customer 13 the receipt and the boarding pass
+[4211] Number of customer assisted by Cashier 2: 6
+[4211] Cashier 2: is waiting for the customer
+[4211] Cashier 1: is serving Customer 1
+[4211] Number of customer paid: 13
+[4211] Cashier 1: gave Customer 1 the receipt and the boarding pass
+[4210] Customer 13:  got on the bus, ready to depart
+[4211] Number of customer assisted by Cashier 1: 7
+[4211] Cashier 1: is waiting for the customer
+[4210] Customer 10:  has paid, waiting in the cafe
+[4212] Customer 5: has decided the item that they want to purchase
+[4212] Customer 5: is waiting for an available clerk to get a slip
+[4212] Customer 5:  is deciding the payment method 
+[4215] Floor clerk 3:  is assisting Customer 5
+[4215] Floor clerk 3:  gave Customer 5 a slip
+[4215] Number of customer assisted by clerks: 15
+[4215] Floor clerk 3: is waiting for the customer
+[4212] Customer 5:  got on payment line
+[4215] Floor clerk 2: is ready to close the store because no customer is left to get a slip.
+[4215] Floor clerk 1: is ready to close the store because no customer is left to get a slip.
+[4212] Customer 5: is paying with credit card, getting on the credit card line 
+[4215] Floor clerk 3: is ready to close the store because no customer is left to get a slip.
+[4212] Customer 5: is waiting for the credit card register to be available
+[4213] Cashier 2: is serving Customer 5
+[4212] Customer 5:  has paid, waiting in the cafe
+[4212] Customer 10:  got on the bus, ready to depart
+[4213] Number of customer paid: 14
+[4213] Cashier 2: gave Customer 5 the receipt and the boarding pass
+[4214] Number of customer assisted by Cashier 2: 7
+[4214] Cashier 2: is waiting for the customer
+[4214] Cashier 1: is serving Customer 10
+[4214] Number of customer paid: 15
+[4214] Cashier 1: gave Customer 10 the receipt and the boarding pass
+[4213] Customer 5:  got on the bus, ready to depart
+[4214] Number of customer assisted by Cashier 1: 8
+[4213] All customer have departed. Store is closed.
+[4214] Cashier 2:  is ready to close the store because all customer have paid.
+[4214] Cashier 1: is waiting for the customer
+[4214] Cashier 1:  is ready to close the store because all customer have paid.
+
+Process finished with exit code 0
