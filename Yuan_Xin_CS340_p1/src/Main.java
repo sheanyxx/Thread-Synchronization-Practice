@@ -1,12 +1,12 @@
 /**
  *
- * 340 Project 2
+ * 340 Project 1
  * Shopping at the Mega store
  * Simulation without Semaphores
  *
  * @author Xin Yuan
  * All rights reserved
- * 12/14/2019
+ * 11/26/2019
  *
  */
 
